@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">CookPhone</string>
+
+    <string name="receita_sobremesa_nome">Banoffee</string>
+    <string name="receita_sobremesa_nota">Nota: 4/10</string>
+
+    <string-array name="receita_sobremesa_nome">
+        <item>Mingau</item>
+        <item>Brownie Cremoso</item>
+        <item>Pudim</item>
+        <item>Grand Gateau</item>
+        <item>Mousse de Cacau</item>
+        <item>Banoffee</item>
+        <item>Milk Shake</item>
+        <item>Maçã do Amor</item>
+        <item>Churros</item>
+        <item>Bolo de Ninho</item>
+    </string-array>
+
+    <string-array name="receita_sobremesa_nota">
+        <item>Nota: 7/10</item>
+        <item>Nota: 8/10</item>
+        <item>Nota: 6/10</item>
+        <item>Nota: 10/10</item>
+        <item>Nota: 9/10</item>
+        <item>Nota: 4/10</item>
+        <item>Nota: 6/10</item>
+        <item>Nota: 8/10</item>
+        <item>Nota: 7/10</item>
+        <item>Nota: 9/10</item>
+    </string-array>
+
+    <string-array name="receita_massas_nome">
+        <item>Capeletti</item>
+        <item>Conchiglione de camarão</item>
+        <item>Empanada</item>
+        <item>Espaguete</item>
+        <item>Lasanha de carne</item>
+        <item>Lasanha 4 queijos</item>
+        <item>Lasanha vegana</item>
+        <item>Noque de batata</item>
+        <item>Panqueca de carne</item>
+        <item>Ravioli de carne</item>
+    </string-array>
+
+    <string-array name="receita_massas_nota">
+        <item>Nota: 9/10</item>
+        <item>Nota: 2/10</item>
+        <item>Nota: 4/10</item>
+        <item>Nota: 10/10</item>
+        <item>Nota: 2/10</item>
+        <item>Nota: 5/10</item>
+        <item>Nota: 8/10</item>
+        <item>Nota: 4/10</item>
+        <item>Nota: 7/10</item>
+        <item>Nota: 10/10</item>
+    </string-array>
+
+    <string-array name="receita_sanduiches_nome">
+        <item>Sanduíche de almondegas</item>
+        <item>Sanduíche de baicon</item>
+        <item>Sanduíche de frango</item>
+        <item>Sanduíche de lagosta</item>
+        <item>Sanduíche de línguiça</item>
+        <item>Sanduíche de atum</item>
+        <item>Sanduíche de pernil</item>
+        <item>Sanduíche de peru</item>
+        <item>Sanduíche de saladas</item>
+        <item>Sanduíche de salame</item>
+    </string-array>
+
+    <string-array name="receita_sanduiches_nota">
+        <item>Nota: 10/10</item>
+        <item>Nota: 9/10</item>
+        <item>Nota: 3/10</item>
+        <item>Nota: 3/10</item>
+        <item>Nota: 2/10</item>
+        <item>Nota: 7/10</item>
+        <item>Nota: 5/10</item>
+        <item>Nota: 2/10</item>
+        <item>Nota: 3/10</item>
+        <item>Nota: 1/10</item>
+    </string-array>
+
+    <string-array name="receita_salada_nome">
+        <item>Salada arabe</item>
+        <item>Salada de carne desfiada</item>
+        <item>Salada cesar de camarão</item>
+        <item>Salada de couve flor</item>
+        <item>Salada de frango desfiado</item>
+        <item>Salada marroquina de cenoura</item>
+        <item>Salada de morango</item>
+        <item>Salada de ovos</item>
+        <item>Salada de pessego</item>
+        <item>Salada de soja</item>
+    </string-array>
+
+    <string-array name="receita_salada_nota">
+        <item>Nota: 6/10</item>
+        <item>Nota: 6/10</item>
+        <item>Nota: 5/10</item>
+        <item>Nota: 3/10</item>
+        <item>Nota: 8/10</item>
+        <item>Nota: 7/10</item>
+        <item>Nota: 8/10</item>
+        <item>Nota: 10/10</item>
+        <item>Nota: 2/10</item>
+        <item>Nota: 9/10</item>
+    </string-array>
+</resources>
